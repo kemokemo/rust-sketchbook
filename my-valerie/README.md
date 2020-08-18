@@ -18,6 +18,8 @@ Using `miniserve`, check the result via `http://localhost:8081`.
 miniserve -p 8081 ./static
 ```
 
+Open `http://127.0.0.1:8081/index.html` by your browser.
+
 ## examples
 
 Other examples of common WebAssembly implementations using Rust can be found [here](https://github.com/rustwasm/wasm-bindgen/tree/master/examples).
