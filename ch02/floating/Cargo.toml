@@ -1,5 +1,5 @@
 [package]
-name = "sum"
+name = "floating"
 version = "0.1.0"
 authors = ["kemokemo <t2wonderland@gmail.com>"]
 edition = "2018"
